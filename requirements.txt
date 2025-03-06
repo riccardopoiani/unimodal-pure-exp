@@ -1,0 +1,8 @@
+numpy
+matplotlib
+joblib
+cvxpy
+pandas
+pyyaml
+seaborn
+scipy

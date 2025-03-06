@@ -1,0 +1,1 @@
+taskset -c 56-112 python3.8 run.py --algo Opt-TaS-Struct --env-cfg configs/rnd10.yml --results-dir new_results/rnd10/opt-tas-struct --delta 0.01 --n-runs 1000 --n-jobs 100 --verbosity 50
